@@ -1,0 +1,16 @@
+Dont need event promp, each menu has a shortcut key to access.
+Taproom is T, city guard is Tx2, arena is F, dungeons is Fx2, Wheel of fortune is Qx4,
+done 1. Accept daily reward.
+done 2. Spin free wheel, only if its free
+no 3. Try all dungeons possible
+no 4. Fight arena opponent with lowest level
+done 5. Find and click character in tavern
+done 6. Pick quest with most xp gain (use keyboard arrows to move in between missions)
+done 7. Skip fights and go back to tavern
+done 8. If thirst for adventure is 0, talk to bartender and click drink button 5 times. If thirst for adventure more than 0 back to tavern cycle, if still 0 go to city guard and do max time
+11. Check for mount, if no mount or time left< 5days buy no mushroom mount
+done 12. Arena Manager needs automation
+done 13. Move mouse away from characters to menu side (using function movemouseto() in pyautogui?) before picking quest. Hovering characters changes their sprite and might cause image not to match
+done 13.5. Move mouse slower like a human, stop teleporting everywhere.
+14. Game seems to log you out every x minutes, maybe anti afk measures. Check for log out screen after every quest to log back in if needed.
+done 15. Underworld Lure hero x5
